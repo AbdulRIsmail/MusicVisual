@@ -4,6 +4,8 @@ Name: Abdulrahman Ismail
 
 Student Number: C18453976
 
+Created: 2nd Year assignment // 2020
+
 # Description of the assignment
 A beautiful program that visualises multiple shapes all beautifully and elegantly synchronized into one output. It syncs with the music and "dances" with it. Best part is... you can control the entire program with a GUI... yes everything!
 
